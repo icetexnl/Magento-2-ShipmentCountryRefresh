@@ -3,14 +3,14 @@ Refresh Magento 2 shipping methods
 
 This module let's you refresh the shipping methods when the customer edits some fields during checkout.
 
-Status module:
-Currently working on Magento 2.2.5
+**Status module:**<br />
+Currently working on Magento 2.2.5<br /><br />
 
 **PLEASE NOTE:**<br />
-Only tested on Magento 2.2.5
+Only tested on Magento 2.2.5<br /><br />
 
-**COPYRIGHT:**
-Licensed under CC-BY-SA
+**COPYRIGHT:**<br />
+Licensed under CC-BY-SA<br /><br />
 
 How to install:
 Just download the files and add it to /app/code/. 
